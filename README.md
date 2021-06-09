@@ -1,4 +1,4 @@
-#  Udacity A-B-Test
+#   A-B-Test
 ## Introduction
 For this project I am working to better understand the results of an A/B test run by am e-commerce site. I am checking to see if the website should implement a new page, keep the old page, or run the experiment longer to come to their decision.
 ## Objectives
